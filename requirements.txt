@@ -1,10 +1,6 @@
 pandas
 scikit-learn
-sklearn.cluster
-sklearn.decomposition
-matplotlib.pyplot
-mpl_toolkits.mplot3d
-sklearn.mixture
-minisom
-numpy 
+matplotlib
+numpy
 tabulate
+streamlit
